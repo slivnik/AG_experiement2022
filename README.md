@@ -25,6 +25,6 @@ E --> F
 ```
 
 The results
-- of the background questionnaire are available in `BackgroundFeedback_AG.xlxs`,
-- of the tests and feedback questionnaires are available in `StudyResults_AG.xlsx`.
+- of the [background questionnaire](https://github.com/slivnik/AG_experiement2022/blob/main/BackgroundFeedback_AG.pdf) are available in `xlsx/BackgroundFeedback_AG.xlxs`,
+- of the [tests and feedback questionnaires](https://github.com/slivnik/AG_experiement2022/blob/main/StudyResults_AG.pdf) are available in `xlsx/StudyResults_AG.xlsx`.
 
