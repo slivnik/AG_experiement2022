@@ -16,7 +16,7 @@ as depicted below:
 
 ```mermaid
 graph
-A[Background Questionnaire] --> B[Test 1]
+A[Test 1] --> B[Background Questionnaire]
 B --> C(Feedback Questionnaire for Test 1)
 C --> D(Test 2: Group I - FERI)
 C --> E(Test 2: Group II - FRI)
