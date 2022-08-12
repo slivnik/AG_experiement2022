@@ -23,3 +23,8 @@ C --> E(Test 2: Group II - FRI)
 D --> F(Feedback Questionnaire for Test 2)
 E --> F
 ```
+
+The results
+- of the background questionnaire are available in `BackgroundFeedback_AG.xlxs',
+- of the tests and feedback questionnaires are available in `StudyResults_AG.xlsx'.
+
