@@ -10,7 +10,7 @@ The controlled experiment consisted of
 	- the 2nd one in two versions, one [for Group I](https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20Test2%20Group%20I%20(FERI).pdf) and the other [for Group II](https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20Test2%20Group%20II%20(FRI).pdf), and
 - two feedback questionnaires,
 	- one given [after the 1st test](https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20feedback%20questionnaire%20test1.pdf) and
-	- the other given [after the 2nd](https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20feedback%20questionnaire%20test2.pdf) test
+	- the other given [after the 2nd test](https://github.com/slivnik/AG_experiement2022/blob/main/AG%20Comprehension%20feedback%20questionnaire%20test2.pdf)
 
 as depicted below:
 
